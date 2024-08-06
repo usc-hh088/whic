@@ -1,4 +1,4 @@
-# # What’s Happening in Centre (WHIC) App
+# What’s Happening in Centre (WHIC) App
 
 ## Overview
 The WHIC app is a web-based platform that offers real-time updates on emergency events within the Centre area, specifically designed for the Kawana Shopping World. It enables users to view, report, and track events effectively.
